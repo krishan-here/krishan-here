@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**krishan-here/krishan-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src='https://media-exp1.licdn.com/dms/image/C5616AQEzB51ea9QpCw/profile-displaybackgroundimage-shrink_350_1400/0/1608443375818?e=1643241600&v=beta&t=vrFgvHAd9VjlnWInb_7snRB_4BTiKpqJfR7TRCg9oSw' />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hii there 👋 krishan here!
+A college student having keen intrest in web development.
+
+- 🔭 I’m currently working on creating geo-alarm.
+- 🌱 I’m currently learning deep concept in javaScript.
+- 📚 following 'you don't know js'.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishan-here)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishan-here&show_icons=true) 
+
+
+
