@@ -1,6 +1,18 @@
 
 
-<img src='https://media-exp1.licdn.com/dms/image/C5616AQEzB51ea9QpCw/profile-displaybackgroundimage-shrink_350_1400/0/1608443375818?e=1643241600&v=beta&t=vrFgvHAd9VjlnWInb_7snRB_4BTiKpqJfR7TRCg9oSw' />
+<table align="center">
+<thead>
+<tr>
+<th style="text-align:center"><img src="https://komarev.com/ghpvc/?username=krishan-here"></th>
+</tr>
+<tr>
+<th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishan-here&theme=tokyonight"></th>
+</tr>
+<tr>
+<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=krishan-here"></th>
+</tr>
+</thead>
+</table>
 
 ### Hii there 👋 krishan here!
 A college student having keen intrest in web development.
