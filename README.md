@@ -20,8 +20,8 @@
 ### Hii there 👋 krishan here!
 A college student having keen intrest in web development.
 
-- 🔭 I’m currently working on creating geo-alarm.
-- 🌱 I’m currently learning deep concept in javaScript.
+- 🔭 I’m currently contributing to open source.
+- 🌱 learning deep concept in javaScript.
 - 📚 following 'you don't know js'.
 
 
